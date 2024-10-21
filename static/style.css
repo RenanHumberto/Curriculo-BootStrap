@@ -104,7 +104,7 @@ html, body {
 }
 
 section#inicio {
-    background-image: url("./img/fundo.png"); 
+    background-image: url("./img/fotoFundo.png"); 
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -152,7 +152,7 @@ section#inicio div#arraste a{
 }
 
 .section-bg{
-    background-color: #c0e8ff;
+    background-color: #c7e9fd;
 }
 
 .cv .cv-title{
@@ -197,3 +197,8 @@ section#inicio div#arraste a{
     left: -9px;
     border-radius: 50%;
  }
+
+ h4 a {
+    color: inherit; 
+    text-decoration: none; 
+}
